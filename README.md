@@ -1,16 +1,13 @@
-### Hi there 👋
+Welcome to my GitHub profile! <img src="https://vczb.github.io/assets/images/hithere.gif" alt="Hi there" height="30" /> 
 
-<!--
-**vczb/vczb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you'll find my open-source projects and coding journey. 🚀
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <samp>
+    <a href="https://github.com/vczb">profile</a> .
+    <a href="https://github.com/vczb?tab=repositories">repositories</a> .
+    <a href="https://github.com/users/vczb/projects/2">public learning</a> .
+    <a href="https://github.com/sponsors/vczb">sponsor</a> .
+    <a href="https://www.linkedin.com/in/vczb/">linked in</a>
+  </samp>
+</p>
