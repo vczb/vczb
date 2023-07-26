@@ -1,7 +1,9 @@
-Welcome to my GitHub profile! <img src="https://vczb.github.io/assets/images/hithere.gif" alt="Hi there" height="50" /> 
-
+<p>
+Welcome to my GitHub profile! <img src="https://vczb.github.io/assets/images/hithere.gif" alt="Hi there" height="30" /> 
+</p>
+<p>
 Here you'll find my open-source projects and coding journey.  <img src="https://vczb.github.io/assets/images/rocket.gif" alt="Animated rocket" height="20" /> 
-
+</p>
 <p>
   <samp>
     <a href="https://github.com/vczb">profile</a> .
