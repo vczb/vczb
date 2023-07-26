@@ -1,5 +1,5 @@
 <p>
-  Welcome to my GitHub profile!  <img src="https://vczb.github.io/assets/images/emoji/sparkles.gif" alt="Hi there" height="16" />
+  Welcome to my GitHub profile!  <img src="https://vczb.github.io/assets/images/emoji/party-popper.gif" alt="Hi there" height="16" />
 </p>
 <p>
 Here you'll find my open-source projects and coding journey.  <img src="https://vczb.github.io/assets/images/emoji/rocket.gif" alt="Animated rocket" height="20" /> 
