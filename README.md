@@ -1,8 +1,8 @@
 <p>
-  Welcome to my GitHub profile!  <img src="https://vczb.github.io/assets/images/emoji/party-popper.gif" alt="Party Popper" height="16" />
+  Welcome to my GitHub profile!  <img src="./emoji/party-popper.gif" alt="Party Popper" height="16" />
 </p>
 <p>
-Here you'll find my open-source projects and coding journey.  <img src="https://vczb.github.io/assets/images/emoji/rocket.gif" alt="Animated rocket" height="16" /> 
+Here you'll find my open-source projects and coding journey.  <img src="./emoji/rocket.gif" alt="Animated rocket" height="16" /> 
 </p>
 <p>
   <samp>
